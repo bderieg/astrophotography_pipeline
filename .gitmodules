@@ -1,0 +1,3 @@
+[submodule "cr2fits"]
+	path = cr2fits
+	url = git@github.com:eaydin/cr2fits.git
